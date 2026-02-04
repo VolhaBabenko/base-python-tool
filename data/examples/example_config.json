@@ -1,0 +1,32 @@
+{
+  "project": "Base Guild Python Tool",
+  "description": "Example configuration for demonstration",
+  "version": "1.0.0",
+  "settings": {
+    "auto_update": true,
+    "log_level": "INFO",
+    "max_files": 100
+  },
+  "features": [
+    {
+      "name": "File Processing",
+      "enabled": true,
+      "description": "Process various file types"
+    },
+    {
+      "name": "Data Validation",
+      "enabled": true,
+      "description": "Validate JSON and other formats"
+    },
+    {
+      "name": "API Integration",
+      "enabled": false,
+      "description": "Connect to external APIs"
+    }
+  ],
+  "metadata": {
+    "created": "2024-01-15",
+    "last_updated": "2024-01-15",
+    "commits": 8
+  }
+}
