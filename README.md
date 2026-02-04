@@ -17,4 +17,4 @@ A demonstration Python project created for the Base Guild quest with 15 meaningf
 ## 📁 Project Structure
 ## Commit 9 - README updated
 
-Commit 6 of 10
+Commit 7 of 10
